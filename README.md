@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 My name is [Skye](https://skyerin8.github.io/)
+
+![skyerin8's github stats](https://github-readme-stats.vercel.app/api?username=skyerin8&show_icons=true&theme=tokyonight&count_private=true)
+
 
 <!--
 **skyerin8/skyerin8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
