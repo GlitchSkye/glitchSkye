@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is [Skye](https://skyerin8.github.io/).
 
 * UK based Programmer
-* C#, C++ and javascript enthusiast 💖💖
+* C#, C++ and JavaScript enthusiast 💖💖
 
 <br>
 
