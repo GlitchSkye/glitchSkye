@@ -3,8 +3,6 @@
 * UK based Programmer
 * C#, C++ and JavaScript enthusiast 💖💖
 
-<br>
-
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 
 <br>
