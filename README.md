@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is [Skye](https://skyerin8.github.io/).
 
-* UK based Programmer
+* UK based Software Engineer
 * C#, C++ and JavaScript enthusiast 💖💖
 
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
