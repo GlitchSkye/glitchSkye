@@ -9,5 +9,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=glitchSkye&show_icons=true&theme=ambient_gradient&count_private=true&hide=stars" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchSkye&layout=compact&theme=ambient_gradient&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glitchSkye&layout=compact&theme=ambient_gradient" />
 </a>
