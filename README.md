@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋 My name is <a href="https://GlitchSkye.github.io/">Skye</a></h1>
 
 <p align="center">
-  UK-based Software Engineer 💖💖
+  UK-based Software Developer 💖💖
 </p>
 
 <p align="center">
